@@ -1,0 +1,11 @@
+Getting Started: Before we start coding out javascript we need to set up our coding environment.
+
+*Download a code editor.
+*VS code ( that is what we are using for this tutotial )
+*Install JS formatting plug in - prettier.
+*Create HTML file.
+*Create js file
+*link js to html file
+ 1. Internal js
+ 2. External Js
+*Inline Javascript e.g Onclick in html btn

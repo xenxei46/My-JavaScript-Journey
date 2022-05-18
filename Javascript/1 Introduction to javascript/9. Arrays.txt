@@ -1,0 +1,7 @@
+Arrays set of data stored with variables and values.
+*0 indexed
+*Syntax var names = []
+*Array Methods
+*Can hold any datatype, Object or function or even other arrays.
+*Arrays are accessed by arrayname[3] and index.
+*Arrays in Javascript has several methods.

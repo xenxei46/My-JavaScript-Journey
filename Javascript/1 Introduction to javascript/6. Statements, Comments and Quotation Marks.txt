@@ -1,0 +1,20 @@
+Statements: This is a set of instruction.
+
+A computer program is a list of "instructions" to be "executed" by a computer.
+
+In a programming language, these programming instructions are called statements.
+
+A JavaScript program is a list of programming statements.
+
+Every language has a way communicating this is syntax. for instance english if you dont speak it correctly the end receiver 
+will not get the message, same thing happen in programming languages when you don't write the correct syntax that the computer understands 
+to communicate with the computer
+the computer doesnt understand.
+
+Comments: (shorcut + /)
+
+JavaScript comments are used to write notes in your code or to disable sections of code without deleting them. 
+Comments are made in JavaScript by adding // before a single line, or /* before and */ after multiple lines. 
+Commenting on code is a core feature of a number of programming languages.
+
+*Quotation Marks: Use Single or Double ""/''

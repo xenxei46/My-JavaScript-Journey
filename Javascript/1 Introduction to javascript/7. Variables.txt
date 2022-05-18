@@ -1,0 +1,21 @@
+Variables : Most Basic Building Block
+*Store, Acess, Modify === Value
+*Declare , Assignment Operator, Assign Value
+
+*A variable is a container that stores value it could be modified or resigned.
+
+Types of variables in JS.
+
+let
+Var
+const
+
+*How to assign a variable.
+
+*use the assignment operation = 
+
+*exercise: Assign variable & later modify.
+
+some variables cannot be modified e.g the const.
+
+*Variable Naming Rules

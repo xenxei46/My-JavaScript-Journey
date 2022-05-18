@@ -1,0 +1,6 @@
+*if
+*else
+*else if
+*switch
+
+*Tenary operator

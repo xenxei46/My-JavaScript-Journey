@@ -1,0 +1,17 @@
+To learn javascript this are basic things to understand.
+
+*What is a website?
+*Types of websites
+*Why we need JS on Websites!!
+
+*Interactivity, data control and dynamism.
+
+*Html
+*CSS
+
+*Get Comfortable with the syntax.
+*Know the Pre-basics.
+*Hard code it yourself.
+*Take on Projects according to your current level.
+*Learn Algorthims in javascript.
+*Be Disciplined.

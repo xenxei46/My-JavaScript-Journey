@@ -1,0 +1,7 @@
+There are three major JS methods that can be of great help to you.
+
+1. Console.log
+2. Prompt.
+3. Alerts.
+
+This methods are mainly used for running test codes (just to see if its working) as for beginners but sometimes are often used in other cases. it all depends on the users case though.

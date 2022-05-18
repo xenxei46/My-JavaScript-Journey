@@ -1,0 +1,9 @@
+Pre-basics.
+
+*The Console
+*Values
+*Scoping & Closure
+*Types & Coercion
+*language Compatibility
+*language Origin and inventor
+*language rules (JS Dos and don'ts)

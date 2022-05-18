@@ -1,0 +1,4 @@
+*Global Variable: a variable declared in the JS window not in a function. can be accesed anywhere in the code.
+*Local Variable: a variable declared in a function can be referenced only within the function scope.
+
+*Variable look up: This is the step taken for a variable to be referenced. when a global variable is to be referenced by a function the function looks up to see the variable with the corresponding name. if no variable holds that name it then moves on to the global variable and picks its value
