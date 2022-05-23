@@ -1,0 +1,18 @@
+DOM Selectors are methods used to select elememts on the DOM. there are situations selectors be able to pick children, maybe to select twice or something, mainly to pick element childrens.
+
+// childNodes - returns all childNodes including whitespace which is treated as a text node
+
+// children
+// firstChild
+// lastChild
+
+// previousSibling
+// nextSibling
+// return whitespace
+
+
+a better way to select sibling element
+//nextElementSibling
+//previousElementSibling
+
+view app.js files for code examples.

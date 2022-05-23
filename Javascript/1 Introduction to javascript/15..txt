@@ -1,0 +1,13 @@
+Powerful Array Methods.
+
+Foreach, map, Filter, find, reduce
+Iterate over array - no for loop required
+Accept CALLBACK function as a argument, calls callback
+against each item in a array, Reference Item in the Callback Parameter.
+
+
+ForEach: Does not Return new Array.it iterates over the array. The importance of forEach: is that when you have an array you can use this method to select each variale and its properties on the array.
+
+
+
+Map: returns a new array, does not change the size of the original array,uses values from original array wheb making new one

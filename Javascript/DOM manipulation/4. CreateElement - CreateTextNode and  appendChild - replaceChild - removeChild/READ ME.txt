@@ -1,0 +1,20 @@
+// createElement('element')
+// createTextNode('text content')
+
+// element.appendChild: add element as the child of selected element.
+
+//parentElement: adding a style to a parent element and chaining it.
+
+//insertBefore: inserts the element before the selected element, appendchild inserts inside the selected element.
+//ReplaceChild.
+
+//prepend: unlike appendChild that adds after the element prepend adds before the element.
+//innerText
+
+//remove: removes the element
+//removeChild: remove the child element of an element
+
+Note: another way to select an element is to select the element using queryselector and then select the elements inside of it.
+the element must have already been stored in a variable.
+const head = remove.querySelector('h2');
+view app.js files for code examples.

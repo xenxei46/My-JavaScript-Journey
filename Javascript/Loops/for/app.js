@@ -4,6 +4,6 @@
 
 
 // (Initialization; condition; iterator; )
-for ( let number = 11; number >=0; number-- ){
+for ( let number = 11; number >= 0; number-- ){
     console.log('and the number is : ' + number );
 }

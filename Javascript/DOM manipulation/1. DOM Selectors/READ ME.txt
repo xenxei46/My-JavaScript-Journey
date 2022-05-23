@@ -1,0 +1,24 @@
+DOM Selectors are methods used to select elememts on the DOM. 
+
+//getElementById('element')
+
+//Select the element or group of elements we want
+//Decide the effect we want to apply to the selection
+
+//getElemensByTagName( 'tagname' );
+//node-list = array-like object
+//index, lenght property but not array methods
+
+//getElementsByClassName('classname');
+//node-list = array-like object
+//index, lenght property but not array methods
+
+//querySelector('any css'); - selects single
+// querySelectorAll('any css'); - selects all
+
+//Irespective of the class and the fact that we used query selector all, still only
+//one item will be selected. unless we use forEach to loop through the items
+
+
+
+view app.js files for code examples.

@@ -1,0 +1,6 @@
+//CSS Property in JS.
+//usesCamel Case for styling no hyphein - CSS Style font-site / JS Style fontSizes
+
+
+
+see code exaples in app.js

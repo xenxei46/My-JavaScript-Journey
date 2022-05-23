@@ -1,6 +1,11 @@
-Callback Function: it is a function passed into another function
-Higher orderfunction: a function that recieves the call back function
+Callback Function: it is a function passed into another function as an argument.
+Higher order function: a function that recieves the call back function.
 
 
 Higher Order Functions: accepts another function as an argument or returns another function as a result.
 Callback Function: pass to another function as an argument and executed inside that function.
+
+
+
+Note: The function that we pass as an argument to another function, is called a Callback function. sayHello is a Callback function.
+Note: A function that returns a function is called a Higher-Order Function.

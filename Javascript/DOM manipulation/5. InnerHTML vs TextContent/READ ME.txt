@@ -1,0 +1,7 @@
+//innerHTML
+//textContent
+
+How this properties speed up our development processes. using this two we can bypass most of the methods we learnt earlier we could conside this two the best practices.
+
+innerHTML: selects the whole html structure in that div and can create html structure
+textContent: selects only the texts and can create texts only , if you need to create html structure you must use innerHTML.
