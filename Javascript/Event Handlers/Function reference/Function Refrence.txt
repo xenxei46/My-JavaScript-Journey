@@ -1,0 +1,7 @@
+Function Ref: instead of using the default function we can refrence a function.
+
+function changeColors(){
+  console.log('ref');
+}
+
+btn.addEventListener('click', changeColors);

@@ -5,7 +5,7 @@
 //className
 //classList
 className: adds a class name to an element. over writes existing className. or when used twice overwrite first class.
-classList.add: adds a list of classes to one element. meaning it doesn't overwrite the first addded classes.
+classList.add: adds a list of classes to one element. meaning it doesn't overwrite the first added classes.
 classList.remove: removes classList, just as we add classes we can remove them.
 
 contains: a property to check if a particular class exists in an element.
